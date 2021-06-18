@@ -1,7 +1,6 @@
 body, html{
 	height: 100%;
-	background-image:  url("flower.jpg");
-	/* background-color: rgb(63, 62, 62); */
+	background-image:  url("asset/flower.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	margin: 0;
@@ -136,14 +135,6 @@ body, html{
     overflow: hidden;
 }
 
-/* button{
-	width: 70px;
-	height: 70px;
-	border: 1px solid red;
-	margin: 10px;
-	border-radius: 50%;
-	position: absolute;
-} */
 
 button{
 	width: 50px;
