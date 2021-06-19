@@ -65,7 +65,7 @@ jsLetter.forEach(node => {
 
 class Modal{
         constructor(){
-                this.jsCalc = document.querySelector(".js-calc")
+                this.jsCalc = document.querySelector(".container")
         }
         displayInfo(){
                 this.jsCalc.style.display = "inherit";
