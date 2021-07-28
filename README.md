@@ -1,3 +1,3 @@
 # thugmonkey.github.io
 
->This is the website for Thug monkey
+> https://thugmonkey666.github.io/t-6.git.io/
