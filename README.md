@@ -1,3 +1,3 @@
 # simple calculator 
 
-> https://thugmonkey666.github.io/t-6.git.io/
+> https://avinashkaushal666.github.io/t-6.git.io/
